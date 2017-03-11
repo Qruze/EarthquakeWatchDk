@@ -11,7 +11,7 @@ namespace EarthquakeWatchDk
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Title = "Geuss Earthquake Overview";
         }
     }
 }
